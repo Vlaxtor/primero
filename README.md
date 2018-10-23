@@ -1,2 +1,2 @@
-# primero
+# Mi primer proyecto
 Primer repo
